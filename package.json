@@ -1,0 +1,11 @@
+{
+  "name": "payroll",
+  "version": "1.0.0",
+  "description": "A payroll app built on the PERN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Micahrski",
+  "license": "ISC"
+}
